@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dsajuoqrlag1b"
+path="res://.godot/imported/tejedores_de_sue_os_outro.dialogue-a4cd58a312bd044dc8a5f4eea219ce8a.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/tejedores_de_sue_os/4_outro/outro_components/tejedores_de_sue_os_outro.dialogue"
+dest_files=["res://.godot/imported/tejedores_de_sue_os_outro.dialogue-a4cd58a312bd044dc8a5f4eea219ce8a.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c1xr6s3f75wl"
+path="res://.godot/imported/tejedores_de_sue_os_collected.dialogue-836cb9b03f4eb8c4746c0d29264f37ff.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/tejedores_de_sue_os/1_stealth/stealth_components/tejedores_de_sue_os_collected.dialogue"
+dest_files=["res://.godot/imported/tejedores_de_sue_os_collected.dialogue-836cb9b03f4eb8c4746c0d29264f37ff.tres"]
+
+[params]
+
+defaults=true

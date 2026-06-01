@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cowcr1rn8d3sw"
+path="res://.godot/imported/tejedores_de_sue_os_combat.dialogue-e5bca7c8999f52a7cb9bd0f48e3904e5.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/tejedores_de_sue_os/2_combat/combat_components/tejedores_de_sue_os_combat.dialogue"
+dest_files=["res://.godot/imported/tejedores_de_sue_os_combat.dialogue-e5bca7c8999f52a7cb9bd0f48e3904e5.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Quest" format=3 uid="uid://dn0thq6jwyryw"]
+
+[ext_resource type="Script" uid="uid://dts1hwdy3phin" path="res://scenes/menus/storybook/components/quest.gd" id="1_na2br"]
+
+[resource]
+script = ExtResource("1_na2br")
+title = "Tejedores de Sueños"
+first_scene = "uid://0u32mh8kc6ow"
+metadata/_custom_type_script = "uid://dts1hwdy3phin"

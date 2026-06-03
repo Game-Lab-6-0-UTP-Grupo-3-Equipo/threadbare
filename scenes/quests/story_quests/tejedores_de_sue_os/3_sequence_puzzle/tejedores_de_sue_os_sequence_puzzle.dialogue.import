@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://e1dcnmxlpff8"
+path="res://.godot/imported/tejedores_de_sue_os_sequence_puzzle.dialogue-4e48108ac88e85e446ea5b4a62deabca.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/tejedores_de_sue_os/3_sequence_puzzle/tejedores_de_sue_os_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/tejedores_de_sue_os_sequence_puzzle.dialogue-4e48108ac88e85e446ea5b4a62deabca.tres"]
+
+[params]
+
+defaults=true

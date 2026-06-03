@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cu4g5garvfx2e"
+path="res://.godot/imported/tejedores_de_sue_os_checkpoint.dialogue-1705bbb4876365157b36595288ff982e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/tejedores_de_sue_os/1_stealth/stealth_components/tejedores_de_sue_os_checkpoint.dialogue"
+dest_files=["res://.godot/imported/tejedores_de_sue_os_checkpoint.dialogue-1705bbb4876365157b36595288ff982e.tres"]
+
+[params]
+
+defaults=true
